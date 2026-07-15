@@ -36,6 +36,11 @@ export interface PageData {
   articlesItems?: SiteItem[];
   articlesCategories?: CategoryItem[];
   pageMeta?: PageMeta;
+  dashboard?: {
+    showWelcome?: boolean;
+    showClock?: boolean;
+    showTodo?: boolean;
+  };
   [key: string]: unknown;
 }
 

@@ -80,6 +80,9 @@ function applyHomePageTitles(data: PageData, pageId: string, config: ResolvedCon
     if (config.profile.subtitle !== undefined) data.subtitle = config.profile.subtitle;
   }
   data.isHome = pageId === config.homePageId;
+  if (config.dashboard) {
+    data.dashboard = { ...config.dashboard };
+  }
 }
 
 function applyPageKindData(

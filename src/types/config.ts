@@ -25,6 +25,11 @@ export type ResolvedConfig = {
   github?: SiteConfig['github'];
   theme?: SiteConfig['theme'];
   security?: SiteConfig['security'];
+  dashboard?: {
+    showWelcome?: boolean;
+    showClock?: boolean;
+    showTodo?: boolean;
+  };
 };
 
 export interface LinkNavigationItem {

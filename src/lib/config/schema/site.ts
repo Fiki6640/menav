@@ -2,6 +2,7 @@ import type { z as ZodNamespace } from 'zod';
 import { z } from 'zod';
 import { pageConfigSchema } from './page.ts';
 import {
+  dashboardSchema,
   fontsSchema,
   githubSchema,
   iconsSchema,
@@ -29,6 +30,7 @@ const siteConfigSchema = z.strictObject({
   profile: profileSchema.optional(),
   rss: rssSchema.optional(),
   github: githubSchema.optional(),
+  dashboard: dashboardSchema.optional(),
   social: z.array(socialItemSchema, { error: 'social 必须是数组' }).optional(),
   navigation: z.array(navigationItemSchema, { error: 'navigation 必须是数组' }).optional(),
 });
@@ -39,6 +41,7 @@ const modularConfigSchema = z.strictObject({
   profile: profileSchema.optional(),
   social: z.array(socialItemSchema, { error: 'social 必须是数组' }).optional(),
   icons: iconsSchema.optional(),
+  dashboard: dashboardSchema.optional(),
   navigation: z.array(navigationItemSchema, { error: 'navigation 必须是数组' }),
 });
 

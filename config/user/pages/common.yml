@@ -36,6 +36,13 @@ categories:
         url: https://www.reddit.com
         icon: fab fa-reddit
         description: 社区讨论平台
+  - name: 飞书
+    icon: fab fa-link
+    sites:
+      - name: Cloudflare
+        url: https://www.cloudflare.com
+        icon: fas fa-cloud
+        description: CDN与安全服务
   - name: 学习资源
     icon: fas fa-graduation-cap
     sites:
@@ -116,10 +123,3 @@ categories:
         url: https://cloud.google.com
         icon: fab fa-google
         description: 谷歌云平台
-  - name: 飞书
-    icon: fab fa-feishu
-    sites:
-      - name: Cloudflare
-        url: https://www.cloudflare.com
-        icon: fas fa-cloud
-        description: CDN与安全服务

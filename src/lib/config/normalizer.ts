@@ -61,6 +61,12 @@ export function ensureConfigDefaults(config: MutableRecord | null | undefined): 
   profile.title = profile.title || '欢迎使用';
   profile.subtitle = profile.subtitle || 'MeNav个人导航系统';
 
+  result.dashboard = isRecord(result.dashboard) ? result.dashboard : {};
+  const dashboard = result.dashboard as MutableRecord;
+  dashboard.showWelcome = dashboard.showWelcome !== false;
+  dashboard.showClock = dashboard.showClock !== false;
+  dashboard.showTodo = dashboard.showTodo !== false;
+
   function processSiteDefaults(siteItem: SiteLike): void {
     siteItem.name = siteItem.name || '未命名站点';
     siteItem.url = siteItem.url || '#';

@@ -104,6 +104,12 @@ const githubSchema = z.looseObject({
   cacheDir: optionalTrimmedStringSchema('cacheDir'),
 });
 
+const dashboardSchema = z.looseObject({
+  showWelcome: z.boolean({ error: 'showWelcome 必须是布尔值' }).optional(),
+  showClock: z.boolean({ error: 'showClock 必须是布尔值' }).optional(),
+  showTodo: z.boolean({ error: 'showTodo 必须是布尔值' }).optional(),
+});
+
 export type SiteItemSchema = typeof siteItemSchema;
 export type SocialItemSchema = typeof socialItemSchema;
 export type NavigationSubmenuItemSchema = typeof navigationSubmenuItemSchema;
@@ -115,6 +121,7 @@ export type ThemeSchema = typeof themeSchema;
 export type SecuritySchema = typeof securitySchema;
 export type RssSchema = typeof rssSchema;
 export type GithubSchema = typeof githubSchema;
+export type DashboardSchema = typeof dashboardSchema;
 
 export type SiteItem = ZodNamespace.output<SiteItemSchema>;
 export type SocialItem = ZodNamespace.output<SocialItemSchema>;
@@ -127,6 +134,7 @@ export type ThemeConfig = ZodNamespace.output<ThemeSchema>;
 export type SecurityConfig = ZodNamespace.output<SecuritySchema>;
 export type RssConfig = ZodNamespace.output<RssSchema>;
 export type GithubConfig = ZodNamespace.output<GithubSchema>;
+export type DashboardConfig = ZodNamespace.output<DashboardSchema>;
 
 export {
   siteItemSchema,
@@ -140,4 +148,5 @@ export {
   securitySchema,
   rssSchema,
   githubSchema,
+  dashboardSchema,
 };
