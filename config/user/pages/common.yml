@@ -75,10 +75,6 @@ categories:
         url: https://10000.gd.cn/html5-speedtest/#/
         icon: fas fa-tools
         description: '可用于完成网络速度相关的测试操作'
-      - name: '测试链接'
-        url: https://example.com
-        icon: fas fa-globe
-        description: '无有效网站功能相关信息，无法总结该网站具体功能。'
 
   - name: 学习资源
     icon: fas fa-graduation-cap
