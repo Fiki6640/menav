@@ -30,14 +30,14 @@ categories:
         icon: fas fa-pen
         description: pseudoyu
         url: https://www.pseudoyu.com/
-  - name: 官方博客
-    icon: fas fa-rss
-    sites:
-      - name: GitHub Blog
-        icon: fab fa-github
-        description: GitHub 官方博客（工程/产品/安全）
-        url: https://github.blog/
-      - name: Cloudflare Blog
-        icon: fas fa-cloud
-        description: Cloudflare 工程与安全博客
-        url: https://blog.cloudflare.com/
+  # - name: 官方博客
+  #   icon: fas fa-rss
+  #   sites:
+  #     - name: GitHub Blog
+  #       icon: fab fa-github
+  #       description: GitHub 官方博客（工程/产品/安全）
+  #       url: https://github.blog/
+  #     - name: Cloudflare Blog
+  #       icon: fas fa-cloud
+  #       description: Cloudflare 工程与安全博客
+  #       url: https://blog.cloudflare.com/

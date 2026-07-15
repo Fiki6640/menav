@@ -39,46 +39,46 @@ categories:
   - name: 飞书
     icon: fas fa-link
     sites:
-      - name: "AppStore全球最低价"
+      - name: 'AppStore全球最低价'
         url: https://appstoreprice.org/zh
         icon: fas fa-cube
-        description: "该网站可查询对应地区的App Store应用价格信息，帮助用户了解不同应用在App Store的定价情况。"
-      - name: "seedhub影视分享"
+        description: '该网站可查询对应地区的App Store应用价格信息，帮助用户了解不同应用在App Store的定价情况。'
+      - name: 'seedhub影视分享'
         url: https://www.seedhub.cc/
         icon: fas fa-film
-        description: "该网站是面向早期创业者的创业服务平台，为早期项目提供孵化、投融资对接、创业资源匹配等相关支持，助力早期创业项目落地与成长。"
-      - name: "uindex种子搜索"
+        description: '该网站是面向早期创业者的创业服务平台，为早期项目提供孵化、投融资对接、创业资源匹配等相关支持，助力早期创业项目落地与成长。'
+      - name: 'uindex种子搜索'
         url: https://uindex.org/
         icon: fas fa-download
-        description: "无法获取该网站的具体功能信息，请补充该网站的有效内容素材后再进行查询。"
-      - name: "NGC硬币认证"
+        description: '无法获取该网站的具体功能信息，请补充该网站的有效内容素材后再进行查询。'
+      - name: 'NGC硬币认证'
         url: https://www.ngccoin.cn/
         icon: fas fa-coins
-        description: "该网站是专业钱币服务平台，主要功能包含钱币鉴定评级、钱币相关价值评估与查询、为钱币收藏爱好者及从业者提供专业的钱币相关服务与交流相关支持，助力钱币收藏领域的规范"
-      - name: "PCGS钱币评级服务"
+        description: '该网站是专业钱币服务平台，主要功能包含钱币鉴定评级、钱币相关价值评估与查询、为钱币收藏爱好者及从业者提供专业的钱币相关服务与交流相关支持，助力钱币收藏领域的规范'
+      - name: 'PCGS钱币评级服务'
         url: https://www.pcgs.com.cn/services
         icon: fas fa-coins
-        description: "该网站提供钱币相关服务，涵盖钱币鉴定、评级、封装类业务，同时为用户提供对应服务的申请办理、进度查询、规则说明等相关配套支持。"
-      - name: "维基百科"
-        url: https://zh.wikipedia.org/wiki/Wikipedia:%E9%A6%96%E9%A1%B5
+        description: '该网站提供钱币相关服务，涵盖钱币鉴定、评级、封装类业务，同时为用户提供对应服务的申请办理、进度查询、规则说明等相关配套支持。'
+      - name: '维基百科'
+        url: https://zh.wikipedia.org/
         icon: fas fa-globe
-        description: "维基百科是面向公众的多语言百科类站点相关的官方页面。"
-      - name: "Cloudflare 测速"
+        description: '维基百科是面向公众的多语言百科类站点相关的官方页面。'
+      - name: 'Cloudflare 测速'
         url: https://speed.cloudflare.com/
         icon: fas fa-tools
-        description: "Cloudflare 测速是一款实用的网络测试工具，可帮助用户快速检测当前网络的实际性能，精准测量网络连接速度等相关指标，操作便捷，能为用户了解自身网络状态提供"
-      - name: "中国科学技术大学测速网站"
+        description: 'Cloudflare 测速是一款实用的网络测试工具，可帮助用户快速检测当前网络的实际性能，精准测量网络连接速度等相关指标，操作便捷，能为用户了解自身网络状态提供'
+      - name: '中国科学技术大学测速网站'
         url: https://test.ustc.edu.cn/
         icon: fas fa-tools
-        description: "可用于网络测速相关操作，能够为用户提供对应的测速服务。"
-      - name: "电信测速"
+        description: '可用于网络测速相关操作，能够为用户提供对应的测速服务。'
+      - name: '电信测速'
         url: https://10000.gd.cn/html5-speedtest/#/
         icon: fas fa-tools
-        description: "可用于完成网络速度相关的测试操作"
-      - name: "测试链接"
+        description: '可用于完成网络速度相关的测试操作'
+      - name: '测试链接'
         url: https://example.com
         icon: fas fa-globe
-        description: "无有效网站功能相关信息，无法总结该网站具体功能。"
+        description: '无有效网站功能相关信息，无法总结该网站具体功能。'
 
   - name: 学习资源
     icon: fas fa-graduation-cap
