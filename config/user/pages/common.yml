@@ -37,7 +37,7 @@ categories:
         icon: fab fa-reddit
         description: 社区讨论平台
   - name: 飞书
-    icon: fab fa-link
+    icon: fas fa-link
     sites:
       - name: Cloudflare
         url: https://www.cloudflare.com
