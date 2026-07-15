@@ -69,9 +69,9 @@ profile:
 # 首页仪表盘显示控制
 # 控制首页仪表盘区域的各组件显示
 dashboard:
-  showWelcome: true # 显示欢迎标题/副标题
-  showClock: true # 显示实时时钟
-  showTodo: true # 显示待办事项
+  showWelcome: false # 显示欢迎标题/副标题
+  showClock: false # 显示实时时钟
+  showTodo: false # 显示待办事项
 
 # RSS（Phase 2）：用于 articles 页面文章聚合
 # 说明：

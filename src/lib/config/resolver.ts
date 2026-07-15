@@ -262,6 +262,7 @@ export function loadModularConfig(dirPath: string): AnyRecord | null {
     if (siteConfig.profile) config.profile = siteConfig.profile;
     if (siteConfig.social) config.social = siteConfig.social;
     if (siteConfig.icons) config.icons = siteConfig.icons;
+    if (siteConfig.dashboard) config.dashboard = siteConfig.dashboard;
 
     if (siteConfig.navigation) {
       config.navigation = siteConfig.navigation;
