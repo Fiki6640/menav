@@ -82,11 +82,15 @@ categories:
       - name: "24bit无损音乐网-无损音乐下载-无损音乐-母带音乐下载-音乐下载-歌曲下载"
         url: https://www.24bit.net/
         icon: fas fa-globe
-        description: "海量24bit 192kHz母带以及24bit 96kHz母带音乐下载，海量母带级别音质无损下载，无需网盘直接直链在线下载。"
+        description: "提供无损音乐、母带音乐的在线资源与下载服务，支持歌曲、音乐的下载获取。"
       - name: "Design System Analysis: Superhuman"
         url: https://getdesign.md/superhuman/design-md
         icon: fas fa-globe
-        description: "Fast email client. Premium dark UI, keyboard-first, purple glow."
+        description: "对Superhuman设计系统开展分析相关的内容梳理、功能拆解、架构逻辑解读等设计系统维度的专项分析工作，输出对应分析成果以支撑相关设计系统的参考、优化与落地参"
+      - name: "NameThatUI — What Is This UI Element Called?"
+        url: https://namethatui.com/
+        icon: fas fa-globe
+        description: "Can&#x27;t name that UI element? Describe it badly — “the pale pill behind the m"
 
   - name: 学习资源
     icon: fas fa-graduation-cap
