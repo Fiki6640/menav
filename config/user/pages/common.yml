@@ -79,6 +79,14 @@ categories:
         url: https://test.nju.edu.cn/
         icon: fas fa-tools
         description: "该网址为测试站点，暂未明确公示对应具体公开功能，无有效可提取的明确服务/功能信息。"
+      - name: "24bit无损音乐网-无损音乐下载-无损音乐-母带音乐下载-音乐下载-歌曲下载"
+        url: https://www.24bit.net/
+        icon: fas fa-globe
+        description: "海量24bit 192kHz母带以及24bit 96kHz母带音乐下载，海量母带级别音质无损下载，无需网盘直接直链在线下载。"
+      - name: "Design System Analysis: Superhuman"
+        url: https://getdesign.md/superhuman/design-md
+        icon: fas fa-globe
+        description: "Fast email client. Premium dark UI, keyboard-first, purple glow."
 
   - name: 学习资源
     icon: fas fa-graduation-cap
