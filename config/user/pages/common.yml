@@ -90,7 +90,11 @@ categories:
       - name: "NameThatUI — What Is This UI Element Called?"
         url: https://namethatui.com/
         icon: fas fa-globe
-        description: "Can&#x27;t name that UI element? Describe it badly — “the pale pill behind the m"
+        description: "帮助用户识别各类UI元素，查询对应UI元素的标准名称。"
+      - name: "Name That UI — What Is This UI Element Called?"
+        url: https://learnui.wangruofeng007.com/
+        icon: fas fa-globe
+        description: "The visual dictionary of UI. See the element, learn its real name,"
 
   - name: 学习资源
     icon: fas fa-graduation-cap
