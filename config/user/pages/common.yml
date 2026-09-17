@@ -39,90 +39,86 @@ categories:
   - name: 飞书
     icon: fas fa-link
     sites:
-      - name: "AppStore全球最低价"
+      - name: 'AppStore全球最低价'
         url: https://appstoreprice.org/zh
         icon: fas fa-cube
-        description: "该网站可查询对应地区的App Store应用价格信息，帮助用户了解不同应用在App Store的定价情况。"
-      - name: "seedhub影视分享"
+        description: '该网站可查询对应地区的App Store应用价格信息，帮助用户了解不同应用在App Store的定价情况。'
+      - name: 'seedhub影视分享'
         url: https://www.seedhub.cc/
         icon: fas fa-film
-        description: "该网站是面向早期创业者的创业服务平台，为早期项目提供孵化、投融资对接、创业资源匹配等相关支持，助力早期创业项目落地与成长。"
-      - name: "uindex种子搜索"
+        description: '该网站是面向早期创业者的创业服务平台，为早期项目提供孵化、投融资对接、创业资源匹配等相关支持，助力早期创业项目落地与成长。'
+      - name: 'uindex种子搜索'
         url: https://uindex.org/
         icon: fas fa-download
-        description: "无法获取该网站的具体功能信息，请补充该网站的有效内容素材后再进行查询。"
-      - name: "NGC硬币认证"
+        description: '无法获取该网站的具体功能信息，请补充该网站的有效内容素材后再进行查询。'
+      - name: 'NGC硬币认证'
         url: https://www.ngccoin.cn/
         icon: fas fa-coins
-        description: "该网站是专业钱币服务平台，主要功能包含钱币鉴定评级、钱币相关价值评估与查询、为钱币收藏爱好者及从业者提供专业的钱币相关服务与交流相关支持，助力钱币收藏领域的规范"
-      - name: "PCGS钱币评级服务"
+        description: '该网站是专业钱币服务平台，主要功能包含钱币鉴定评级、钱币相关价值评估与查询、为钱币收藏爱好者及从业者提供专业的钱币相关服务与交流相关支持，助力钱币收藏领域的规范'
+      - name: 'PCGS钱币评级服务'
         url: https://www.pcgs.com.cn/services
         icon: fas fa-coins
-        description: "该网站提供钱币相关服务，涵盖钱币鉴定、评级、封装类业务，同时为用户提供对应服务的申请办理、进度查询、规则说明等相关配套支持。"
-      - name: "维基百科"
+        description: '该网站提供钱币相关服务，涵盖钱币鉴定、评级、封装类业务，同时为用户提供对应服务的申请办理、进度查询、规则说明等相关配套支持。'
+      - name: '维基百科'
         url: https://zh.wikipedia.org/
         icon: fas fa-globe
-        description: "这是一个多语言的网络百科全书平台，面向公众提供由志愿者协作编写、可公开编辑的各类知识条目内容，覆盖不同领域的通用信息与专业知识，供用户查询参考、补充完善相关知识"
-      - name: "Cloudflare 测速"
+        description: '这是一个多语言的网络百科全书平台，面向公众提供由志愿者协作编写、可公开编辑的各类知识条目内容，覆盖不同领域的通用信息与专业知识，供用户查询参考、补充完善相关知识'
+      - name: 'Cloudflare 测速'
         url: https://speed.cloudflare.com/
         icon: fas fa-tools
-        description: "Cloudflare 测速是一款实用的网络测试工具，可帮助用户快速检测当前网络的实际性能，精准测量网络连接速度等相关指标，操作便捷，能为用户了解自身网络状态提供"
-      - name: "中国科学技术大学测速网站"
+        description: 'Cloudflare 测速是一款实用的网络测试工具，可帮助用户快速检测当前网络的实际性能，精准测量网络连接速度等相关指标，操作便捷，能为用户了解自身网络状态提供'
+      - name: '中国科学技术大学测速网站'
         url: https://test.ustc.edu.cn/
         icon: fas fa-tools
-        description: "可用于网络测速相关操作，能够为用户提供对应的测速服务。"
-      - name: "电信测速"
+        description: '可用于网络测速相关操作，能够为用户提供对应的测速服务。'
+      - name: '电信测速'
         url: https://10000.gd.cn/html5-speedtest/#/
         icon: fas fa-tools
-        description: "可用于完成网络速度相关的测试操作"
-      - name: "南京大学测速站"
+        description: '可用于完成网络速度相关的测试操作'
+      - name: '南京大学测速站'
         url: https://test.nju.edu.cn/
         icon: fas fa-tools
-        description: "该网址为测试站点，暂未明确公示对应具体公开功能，无有效可提取的明确服务/功能信息。"
-      - name: "24bit无损音乐网-无损音乐下载-无损音乐-母带音乐下载-音乐下载-歌曲下载"
+        description: '南京大学网络测速站。'
+      - name: '24bit无损音乐网-无损音乐下载-无损音乐-母带音乐下载-音乐下载-歌曲下载'
         url: https://www.24bit.net/
         icon: fas fa-globe
-        description: "提供无损音乐、母带音乐的在线资源与下载服务，支持歌曲、音乐的下载获取。"
-      - name: "Design System Analysis: Superhuman"
+        description: '提供无损音乐、母带音乐的在线资源与下载服务，支持歌曲、音乐的下载获取。'
+      - name: 'DESIGN.md - 为 AI 构建的网站赋予真正的设计'
         url: https://getdesign.md/superhuman/design-md
         icon: fas fa-globe
-        description: "对Superhuman设计系统开展分析相关的内容梳理、功能拆解、架构逻辑解读等设计系统维度的专项分析工作，输出对应分析成果以支撑相关设计系统的参考、优化与落地参"
-      - name: "NameThatUI — What Is This UI Element Called?"
+        description: '通过 DESIGN.md 为 AI 构建的网站赋予真正的设计'
+      - name: 'NameThatUI — 这个元素叫什么？'
         url: https://namethatui.com/
         icon: fas fa-globe
-        description: "帮助用户识别各类UI元素，查询对应UI元素的标准名称。"
-      - name: "Name That UI — What Is This UI Element Called?"
+        description: '帮助用户识别各类UI元素，查询对应UI元素的标准名称。'
+      - name: 'Name That UI — 这个元素叫什么？'
         url: https://learnui.wangruofeng007.com/
         icon: fas fa-globe
-        description: "帮助用户识别各类UI元素，查询并明确对应UI元素的标准名称。"
-      - name: "IP 查询 - IP分流测试 - Net.Coffee"
+        description: '帮助用户识别各类UI元素，查询并明确对应UI元素的标准名称。'
+      - name: 'IP 查询 - IP分流测试 - Net.Coffee'
         url: https://ip.net.coffee/
         icon: fas fa-cube
-        description: "提供IP查询、IP分流测试相关服务"
-      - name: "https://ext.to/"
+        description: '提供IP查询、IP分流测试相关服务'
+      - name: 'ext种子搜索'
         url: https://ext.to/
         icon: fas fa-globe
-        description: "该网站是一个提供文件外链提取、资源解析下载服务的工具站，支持对各类存储、分享类平台的链接进行解析，获取对应资源的可下载地址，方便用户快速提取所需网络资源。"
-      - name: "4K原盘免费下载"
+        description: '该网站是一个提供文件外链提取、资源解析下载服务的工具站，支持对各类存储、分享类平台的链接进行解析，获取对应资源的可下载地址，方便用户快速提取所需网络资源。'
+      - name: '4K原盘免费下载'
         url: https://pomo.mom/
         icon: fas fa-globe
-        description: "提供4K原盘资源的免费下载服务"
-      - name: "https://www.jumomo.fun/"
-        url: https://www.jumomo.fun/
-        icon: fas fa-globe
-        description: "由于未获取到该网址对应的实际内容，无法总结其具体功能，请补充提供该网站的相关内容信息后再进行处理。"
-      - name: "CinePoster - 经典电影海报分享"
+        description: '提供4K原盘资源的免费下载服务'
+      - name: 'CinePoster - 经典电影海报分享'
         url: https://www.flgens.com/
         icon: fas fa-coins
-        description: "分享经典电影海报"
-      - name: "嘀嗒影视 - 高分电影聚集地，超清秒播体验！"
+        description: '分享经典电影海报'
+      - name: '嘀嗒影视 - 高分电影聚集地，超清秒播体验！'
         url: https://www.didahd.pro/
         icon: fas fa-coins
-        description: "专注高分电影，高清HD在线，极速秒播不卡顿！"
-      - name: "https://www.pipilv.cc/"
+        description: '专注高分电影，高清HD在线，极速秒播不卡顿！'
+      - name: 'https://www.pipilv.cc/'
         url: https://www.pipilv.cc/
         icon: fas fa-globe
-        description: ""
+        description: ''
 
   - name: 学习资源
     icon: fas fa-graduation-cap
