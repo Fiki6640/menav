@@ -98,7 +98,31 @@ categories:
       - name: "IP 查询 - IP分流测试 - Net.Coffee"
         url: https://ip.net.coffee/
         icon: fas fa-cube
-        description: "查询本机 IP 地址及归属地，测试分流规则是否生效。支持国内外 35+ 网站出口 IP 检测、网络连通性测试，一键查看 Cloudflare、Discord、C"
+        description: "提供IP查询、IP分流测试相关服务"
+      - name: "https://ext.to/"
+        url: https://ext.to/
+        icon: fas fa-globe
+        description: "该网站是一个提供文件外链提取、资源解析下载服务的工具站，支持对各类存储、分享类平台的链接进行解析，获取对应资源的可下载地址，方便用户快速提取所需网络资源。"
+      - name: "4K原盘免费下载"
+        url: https://pomo.mom/
+        icon: fas fa-globe
+        description: "提供4K原盘资源的免费下载服务"
+      - name: "https://www.jumomo.fun/"
+        url: https://www.jumomo.fun/
+        icon: fas fa-globe
+        description: "由于未获取到该网址对应的实际内容，无法总结其具体功能，请补充提供该网站的相关内容信息后再进行处理。"
+      - name: "CinePoster - 经典电影海报分享"
+        url: https://www.flgens.com/
+        icon: fas fa-coins
+        description: "分享经典电影海报"
+      - name: "嘀嗒影视 - 高分电影聚集地，超清秒播体验！"
+        url: https://www.didahd.pro/
+        icon: fas fa-coins
+        description: "专注高分电影，高清HD在线，极速秒播不卡顿！"
+      - name: "https://www.pipilv.cc/"
+        url: https://www.pipilv.cc/
+        icon: fas fa-globe
+        description: ""
 
   - name: 学习资源
     icon: fas fa-graduation-cap
