@@ -94,7 +94,11 @@ categories:
       - name: "Name That UI — What Is This UI Element Called?"
         url: https://learnui.wangruofeng007.com/
         icon: fas fa-globe
-        description: "The visual dictionary of UI. See the element, learn its real name,"
+        description: "帮助用户识别各类UI元素，查询并明确对应UI元素的标准名称。"
+      - name: "IP 查询 - IP分流测试 - Net.Coffee"
+        url: https://ip.net.coffee/
+        icon: fas fa-cube
+        description: "查询本机 IP 地址及归属地，测试分流规则是否生效。支持国内外 35+ 网站出口 IP 检测、网络连通性测试，一键查看 Cloudflare、Discord、C"
 
   - name: 学习资源
     icon: fas fa-graduation-cap
