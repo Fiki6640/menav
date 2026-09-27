@@ -126,7 +126,11 @@ categories:
       - name: "DESIGN.md - Design Systems for AI Coding"
         url: https://designmd.ai/
         icon: fas fa-globe
-        description: "100s of free design systems your AI coding tools actually read."
+        description: "聚焦AI编码场景的设计系统相关内容，为AI编码相关的设计系统建设、应用提供规范、参考类的内容支撑。"
+      - name: "https://en.numista.com/"
+        url: https://en.numista.com/
+        icon: fas fa-coins
+        description: ""
 
   - name: 学习资源
     icon: fas fa-graduation-cap
