@@ -9,6 +9,34 @@ template: page
 
 # 页面分类与站点列表
 categories:
+
+  - name: 置顶
+    icon: fas fa-star # 分类图标
+    sites:
+      - name: Google
+        url: https://www.google.com
+        icon: fab fa-google
+        description: 全球最大的搜索引擎
+      - name: GitHub
+        url: https://www.github.com
+        icon: fab fa-github
+        description: 代码托管平台
+      - name: ChatGPT
+        url: https://chat.openai.com
+        icon: fas fa-robot
+        description: AI智能助手
+      - name: YouTube
+        url: https://www.youtube.com
+        icon: fab fa-youtube
+        description: 视频分享平台
+      - name: Twitter
+        url: https://twitter.com
+        icon: fab fa-twitter
+        description: 社交媒体平台
+      - name: Reddit
+        url: https://www.reddit.com
+        icon: fab fa-reddit
+        description: 社区讨论平台
   - name: 飞书·软件
     icon: fas fa-cube
     sites:
@@ -125,34 +153,6 @@ categories:
         url: https://heroui.pro/
         icon: fas fa-palette
         description: "提供优质UI组件与模板"
-  - name: 置顶
-    icon: fas fa-star # 分类图标
-    sites:
-      - name: Google
-        url: https://www.google.com
-        icon: fab fa-google
-        description: 全球最大的搜索引擎
-      - name: GitHub
-        url: https://www.github.com
-        icon: fab fa-github
-        description: 代码托管平台
-      - name: ChatGPT
-        url: https://chat.openai.com
-        icon: fas fa-robot
-        description: AI智能助手
-      - name: YouTube
-        url: https://www.youtube.com
-        icon: fab fa-youtube
-        description: 视频分享平台
-      - name: Twitter
-        url: https://twitter.com
-        icon: fab fa-twitter
-        description: 社交媒体平台
-      - name: Reddit
-        url: https://www.reddit.com
-        icon: fab fa-reddit
-        description: 社区讨论平台
-
   - name: 学习资源
     icon: fas fa-graduation-cap
     sites:
