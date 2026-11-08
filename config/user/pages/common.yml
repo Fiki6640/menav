@@ -10,33 +10,6 @@ template: page
 # 页面分类与站点列表
 categories:
 
-  - name: 置顶
-    icon: fas fa-star # 分类图标
-    sites:
-      - name: Google
-        url: https://www.google.com
-        icon: fab fa-google
-        description: 全球最大的搜索引擎
-      - name: GitHub
-        url: https://www.github.com
-        icon: fab fa-github
-        description: 代码托管平台
-      - name: ChatGPT
-        url: https://chat.openai.com
-        icon: fas fa-robot
-        description: AI智能助手
-      - name: YouTube
-        url: https://www.youtube.com
-        icon: fab fa-youtube
-        description: 视频分享平台
-      - name: Twitter
-        url: https://twitter.com
-        icon: fab fa-twitter
-        description: 社交媒体平台
-      - name: Reddit
-        url: https://www.reddit.com
-        icon: fab fa-reddit
-        description: 社区讨论平台
   - name: 飞书·软件
     icon: fas fa-cube
     sites:
@@ -63,18 +36,10 @@ categories:
         url: https://pomo.mom/
         icon: fas fa-film
         description: "提供4K原盘资源的免费下载服务"
-      - name: "https://www.jumomo.fun/"
-        url: https://www.jumomo.fun/
-        icon: fas fa-film
-        description: "由于未获取到该网址对应的实际内容，无法总结其具体功能，请补充提供该网站的相关内容信息后再进行处理。"
       - name: "嘀嗒影视 - 高分电影聚集地，超清秒播体验！"
         url: https://www.didahd.pro/
         icon: fas fa-film
         description: "该网站可提供高分电影资源，支持超清秒播。"
-      - name: "https://www.pipilv.cc/"
-        url: https://www.pipilv.cc/
-        icon: fas fa-film
-        description: "该网站为皮皮虾相关内容平台，提供各类趣味短视频、搞笑段子、图文内容的浏览、分享与互动服务，支持用户创作发布内容、参与话题互动，涵盖生活、娱乐、脑洞等多元内容品类"
   - name: 飞书·种子
     icon: fas fa-download
     sites:
@@ -97,10 +62,6 @@ categories:
         url: https://www.pcgs.com.cn/services
         icon: fas fa-coins
         description: "该网站提供钱币相关服务，涵盖钱币鉴定、评级、封装类业务，同时为用户提供对应服务的申请办理、进度查询、规则说明等相关配套支持。"
-      - name: "CinePoster - 经典电影海报分享"
-        url: https://www.flgens.com/
-        icon: fas fa-coins
-        description: "分享经典电影海报"
       - name: "https://en.numista.com/"
         url: https://en.numista.com/
         icon: fas fa-coins
@@ -153,6 +114,34 @@ categories:
         url: https://heroui.pro/
         icon: fas fa-palette
         description: "提供优质UI组件与模板"
+  - name: 置顶
+    icon: fas fa-star # 分类图标
+    sites:
+      - name: Google
+        url: https://www.google.com
+        icon: fab fa-google
+        description: 全球最大的搜索引擎
+      - name: GitHub
+        url: https://www.github.com
+        icon: fab fa-github
+        description: 代码托管平台
+      - name: ChatGPT
+        url: https://chat.openai.com
+        icon: fas fa-robot
+        description: AI智能助手
+      - name: YouTube
+        url: https://www.youtube.com
+        icon: fab fa-youtube
+        description: 视频分享平台
+      - name: Twitter
+        url: https://twitter.com
+        icon: fab fa-twitter
+        description: 社交媒体平台
+      - name: Reddit
+        url: https://www.reddit.com
+        icon: fab fa-reddit
+        description: 社区讨论平台
+
   - name: 学习资源
     icon: fas fa-graduation-cap
     sites:
